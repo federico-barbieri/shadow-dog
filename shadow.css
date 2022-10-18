@@ -25,9 +25,9 @@
     position: absolute;
     top: 30%;
     left: 50%;
-    transform: translate(-50%, 10%);
-    width: 600px;
-    height: 600px;
+    transform: translate(-50%, 30%);
+    width: 400px;
+    height: 400px;
     background-color: var(--gray);
 }
 
@@ -36,7 +36,7 @@
     z-index: 10;
     top: 30%;
     left: 50%;
-    transform: translate(-50%, 20%);
+    transform: translate(-50%, 30%);
 }
 
 .controls, select, option{
@@ -51,7 +51,7 @@ h1{
     font-weight: 700;
     font-style: normal;
     font-size: 5vw;
-    padding-top: 10rem;
+    padding-top: 5rem;
 }
 
 p{
