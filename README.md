@@ -1,7 +1,7 @@
 # shadow-dog
 
                 
-               TRAIN YOUR DOG --> https://federico-barbieri.github.io/shadow-dog/
+               TRAIN YOUR DOG --> federico-barbieri.github.io/shadow-dog/
                 
                PARALLAX BACKGROUND --> federico-barbieri.github.io/parallax
                
