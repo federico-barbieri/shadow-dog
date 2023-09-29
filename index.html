@@ -11,17 +11,16 @@
 <body>
 
     <div class="container">
-
     
 
         <h1>Practice dog</h1>
-        <p>Having a dog is no easy task. Get some practice 
+        <p>Having a dog is no easy task. <br>Get some practice 
             by teaching it tricks.
         </p>
 
     <canvas id="canvas1"></canvas>
     <div class="controls">
-        <label for="animations">Choose Animation:</label>
+        <label for="animations">Choose trick:</label>
         <select name="animations" id="animations">
         <option value="idle">Idle</option>
         <option value="jump">Jump</option>
@@ -36,6 +35,11 @@
         </select>
         
     </div>
+
+    <video id="video" autoplay muted loop>
+        <source src="dogvideo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
 
 
 
